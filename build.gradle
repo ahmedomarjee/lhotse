@@ -55,7 +55,7 @@ subprojects {
         axonHazelcastCommandDistributionVersion = '0.9.2'
         mediaVersion = '0.9.2'
         securityVersion = '0.9.1'
-        storageVersion = '0.9.2'
+        storageVersion = '0.9.4'
 
         aspectjVersion = '1.9.6'
         awsSdkVersion = '1.11.887'
